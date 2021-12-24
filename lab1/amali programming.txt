@@ -1,0 +1,11 @@
+LAB PROGRAMMING(27/10/2021)
+
+
+-lab 15%
+lab execution-5%
+source code 5%
+team work 5%
+output screenshot lettak dalam word and submmit
+format 1.1cpp
+	1.2cpp
+	1.3cpp
