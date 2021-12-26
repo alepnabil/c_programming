@@ -12,6 +12,7 @@ void output_weight(float& kg)
     gram = kg/1000;
     cout << "POUNDS IN KILOGRAM : " << kg << "kg" << endl;
     cout << "OUNCES IN GRAM : " << gram << "g" << endl;
+    cout << "hi" << endl;
 
 }
 
