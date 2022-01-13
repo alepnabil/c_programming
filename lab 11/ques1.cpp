@@ -2,6 +2,9 @@
 #include <cstring>
 using namespace std;
 
+/*Write a C++ program that prompts the user to enter a string, then removes all characters in
+the string except alphabets. Finally, the program will print out the resultant string*/
+
 int main()
 {
     char original_string[30],new_string[30];
