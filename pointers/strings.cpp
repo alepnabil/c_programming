@@ -6,6 +6,16 @@ using namespace std;
 
 int main(){
 
+
+    
+    //prompting string using get, but have too pass an array
+    char city[4];
+    cout << "what city : "<< endl;
+    gets(city);
+
+    cout << "the city is " << city[0]  << endl;
+    
+
     char *s1 = "abcdefg";
     char *s2 = "abcdg";
     char *s3 = "abcdg";
@@ -26,12 +36,5 @@ int main(){
     cout << testing << endl;    
 
 
-    //prompting string using get, but have too pass an array
-    char city[4];
-    cout << "what city : "<< endl;
-    gets(city);
-
-    cout << "the city is " << city  << endl;
-    
 
 }
